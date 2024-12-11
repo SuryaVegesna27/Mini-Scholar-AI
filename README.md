@@ -5,7 +5,6 @@ Mini Scholar AI is an AI-powered platform designed to simplify academic research
 # Features
 
 Text Extraction: Extracts text from PDFs for processing.
-
 Semantic Search: Retrieves contextually relevant information using Sentence Transformers and ChromaDB.
 
 Summarization: Summarizes research papers to provide quick insights.
