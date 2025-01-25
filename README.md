@@ -1,3 +1,8 @@
+![Picture1](https://github.com/user-attachments/assets/b87feb68-2420-4b0d-8339-9d5b6b81fc02)
+
+
+
+
 # Mini Scholar AI
 
 Mini Scholar AI is an AI-powered platform designed to simplify academic research by enabling efficient text extraction, semantic search, and summarization of research papers. It leverages state-of-the-art NLP technologies like Sentence Transformers, ChromaDB, and ChatGPT API to deliver contextual insights and enhance productivity.
